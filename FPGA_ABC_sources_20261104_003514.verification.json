@@ -1,0 +1,10 @@
+{
+  "status": "PASS_ZIP_CRC_AND_ALL_FILE_SHA256",
+  "archive": "C:\\Users\\16034\\Documents\\ChatGPT\\FPGA\\deliverables\\FPGA_ABC_sources_20261104_003514.zip",
+  "archive_bytes": 59244093,
+  "files": 7042,
+  "source_bytes": 202557455,
+  "sha256": "2fd3dd5f26757ce6f81c98db90ffcb775b747b4cc87c9ab8321f8c16f83d6069",
+  "preview_design_files_verified": 112,
+  "hardware_accessed": false
+}
